@@ -1,5 +1,5 @@
 {
-  "name": "gulp-email-builder",
+  "name": "tas-gulp-email-builder",
   "version": "3.0.0",
   "description": "Uses Email Builder to inline css, send email tests, and send tests to Litmus",
   "main": "lib/emailBuilder.js",
@@ -8,13 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Email-builder/gulp-email-builder.git"
+    "url": "https://github.com/PaulTime/tas-email-builder.git"
   },
-  "contributors": [
-    "Jeremy Peter <jeremywpeter@gmail.com> (https://github.com/jeremypeter)",
-    "Steve Miller <steven.jmiller@gmail.com> (http://www.stevenjohnmiller.com.au)"
-  ],
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Email-builder/gulp-email-builder/issues"
   },
