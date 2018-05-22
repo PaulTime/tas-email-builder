@@ -1,4 +1,5 @@
 node_modules
 example/dist
+package-lock.json
 reports
 npm-debug.log
